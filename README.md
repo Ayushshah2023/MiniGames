@@ -1,4 +1,8 @@
 # MiniGames
 Classics- TicTacToe and The_21_Game
-Basic Games are included in her
-Will love to do all the public suggestions as well
+Along with them flappy bird, Minesweeper, encrption decryption, Cars, PacMan etc are now added to the list.
+PYGAME will be needed for your laptop
+Basic Games are included in here
+
+
+
